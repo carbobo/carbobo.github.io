@@ -89,12 +89,12 @@
     color: #9d9d9d !important;
 }
 
-.buyBtn {
-    width: 162px;
+.ulList2 .buyBtn {
+    width: 150px;
     height: 30px;
     background: #0088f3;
     color: #fff;
-    padding-left: 12px;
+    padding-left: 15px;
     border-radius: 4px;
     text-align: left;
     line-height: 30px;
