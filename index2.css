@@ -90,12 +90,13 @@
 }
 
 .buyBtn {
-    width: 80px;
+    width: 162px;
     height: 30px;
     background: #0088f3;
     color: #fff;
+    padding-left: 12px;
     border-radius: 4px;
-    text-align: center;
+    text-align: left;
     line-height: 30px;
     margin-left: 40px;
     font-size: 13px;
